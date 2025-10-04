@@ -1,5 +1,7 @@
-# Demo Video
-![demo](https://cdn.discordapp.com/attachments/769214149271617606/1424176471496458250/IMG_0572_2.mov?ex=68e2ff32&is=68e1adb2&hm=c438d9e3c21742e51c7a658f02df0539b0fa0f69e6911e80cec4ca2254ba2cb9&)
+# Demo / Photos
+![pic1](https://cdn.discordapp.com/attachments/769214149271617606/1424177090449768489/image.png?ex=68e2ffc6&is=68e1ae46&hm=91ab70f45e52a5097cbaf3606b01eceb2049717af5e3fb82f7abc40d17326200&)
+![pic2](https://cdn.discordapp.com/attachments/769214149271617606/1424177090831581316/image.png?ex=68e2ffc6&is=68e1ae46&hm=c17eda02adf57676471aac23cbb6aeb0c9d9c7949a52764f53ca30332f771f87&)
+![pic3](https://cdn.discordapp.com/attachments/769214149271617606/1424177288567849041/IMG_3300.jpg?ex=68e2fff5&is=68e1ae75&hm=193b9c539b3932bb5cafc769be45c46530dec0ac92ae663490f29182e08d5fca&)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
