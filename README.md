@@ -1,3 +1,6 @@
+# Demo Video
+![demo](https://cdn.discordapp.com/attachments/769214149271617606/1424176471496458250/IMG_0572_2.mov?ex=68e2ff32&is=68e1adb2&hm=c438d9e3c21742e51c7a658f02df0539b0fa0f69e6911e80cec4ca2254ba2cb9&)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
