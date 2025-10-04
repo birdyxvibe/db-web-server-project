@@ -1,3 +1,9 @@
+The DB-Web Server Project is a project created in class which allows users to access a locally hosted web page, which displays information from a PostgreSQL database hosted on another computer on the network. 
+
+This project utilizes Next.js + React, Prisma ORM + PostgreSQL, and TypeScript to run.
+
+While accessing data, users can select buttons on the individual profile pages to change the color of the page header. This data will persist across refreshes as it is stored in the database on click via a database manager. 
+
 # Demo / Photos
 ![pic1](https://cdn.discordapp.com/attachments/769214149271617606/1424177090449768489/image.png?ex=68e2ffc6&is=68e1ae46&hm=91ab70f45e52a5097cbaf3606b01eceb2049717af5e3fb82f7abc40d17326200&)
 ![pic2](https://cdn.discordapp.com/attachments/769214149271617606/1424177090831581316/image.png?ex=68e2ffc6&is=68e1ae46&hm=c17eda02adf57676471aac23cbb6aeb0c9d9c7949a52764f53ca30332f771f87&)
