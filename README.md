@@ -5,9 +5,9 @@ This project utilizes Next.js + React, Prisma ORM + PostgreSQL, and TypeScript t
 While accessing data, users can select buttons on the individual profile pages to change the color of the page header. This data will persist across refreshes as it is stored in the database on click via a database manager. 
 
 # Demo / Photos
-![pic1](https://github.com/birdyxvibe/db-web-server-project/photo1.png)
-![pic2](https://github.com/birdyxvibe/db-web-server-project/photo2.png)
-![pic3](https://github.com/birdyxvibe/db-web-server-project/photo3.jpg)
+![pic1](https://github.com/birdyxvibe/db-web-server-project/blob/main/photo1.png)
+![pic2](https://github.com/birdyxvibe/db-web-server-project/blob/main/photo2.png)
+![pic3](https://github.com/birdyxvibe/db-web-server-project/blob/main/photo3.jpg)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
