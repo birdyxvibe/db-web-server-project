@@ -9,7 +9,9 @@ While accessing data, users can select buttons on the individual profile pages t
 ![pic2](https://github.com/birdyxvibe/db-web-server-project/blob/main/photo2.png)
 ![pic3](https://github.com/birdyxvibe/db-web-server-project/blob/main/photo3.jpg)
 
+- NOTE: If the Demo is not working, it is an issue with the github source (best practice) which I cannot control. I've uploaded it within the portfolio as well if it is not working here.
 ![mov1](https://github.com/birdyxvibe/db-web-server-project/blob/main/2025-11-30%2004-28-38.mkv)
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
